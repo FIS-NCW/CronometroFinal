@@ -81,11 +81,11 @@
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
     <h3>Pausar temporizador<br></h3>
     <h4>Diagrama de secuencias<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97922810-0afbb780-1d2b-11eb-88de-66f9720705af.jpg" alt="Hola">
     <h4>Diagrama de actividades<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97922809-0a632100-1d2b-11eb-92b2-4e730b04c650.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97922805-08995d80-1d2b-11eb-839e-9afb416d1813.jpg" alt="Hola">
     <h3>Reiniciar temporizador<br></h3>
     <h4>Diagrama de secuencias<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
