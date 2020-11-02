@@ -94,11 +94,11 @@
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97922506-9759aa80-1d2a-11eb-9692-e3e45c5f4f0d.jpg" alt="Hola">
     <h3>Guardar cronometro<br></h3>
     <h4>Diagrama de secuencias<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924452-ad1c9f00-1d2d-11eb-932e-e50b84f920a7.jpg" alt="Hola">
     <h4>Diagrama de actividades<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924560-db01e380-1d2d-11eb-9eed-47d0da86cb8b.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924437-a7bf5480-1d2d-11eb-8d46-71e7211b9cd6.jpg" alt="Hola">
 </dd>
 </dl>
 <h2>Diagramas por requerimiento del temporizador</h2>
