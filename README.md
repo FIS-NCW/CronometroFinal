@@ -112,7 +112,7 @@
     <h4>Diagrama de actividades<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924997-9e82b780-1d2e-11eb-80ff-a25fc48dac9f.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97927003-2a4a1300-1d32-11eb-947a-0520723ca17e.jpg" alt="Hola">
     <h3>Establecer tiempo<br></h3>
     <h4>Diagrama de secuencias<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924117-22d43b00-1d2d-11eb-9bc9-94ae572b3ee7.jpg" alt="Hola">
