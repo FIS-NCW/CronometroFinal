@@ -99,15 +99,18 @@
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924560-db01e380-1d2d-11eb-9eed-47d0da86cb8b.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924437-a7bf5480-1d2d-11eb-8d46-71e7211b9cd6.jpg" alt="Hola">
+    <h3>Unidad de tiempo Cronometro<br></h3>
+    <h4>Diagrama de secuencias<br></h4>
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97925121-d4c03700-1d2e-11eb-9aa5-4e70416a2273.jpg" alt="Hola">
 </dd>
 </dl>
 <h2>Diagramas por requerimiento del temporizador</h2>
 <dd>
     <h3>retroceder tiempo<br></h3>
     <h4>Diagrama de secuencias<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="(https://user-images.githubusercontent.com/54086394/97924995-9dea2100-1d2e-11eb-81e4-e66626afb480.jpg" alt="Hola">
     <h4>Diagrama de actividades<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="(https://user-images.githubusercontent.com/54086394/97924997-9e82b780-1d2e-11eb-80ff-a25fc48dac9f.jpg)" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
     <h3>Establecer tiempo<br></h3>
@@ -131,6 +134,9 @@
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923078-6fb71200-1d2b-11eb-9ce0-10f2935028ed.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <h3>Unidad de tiempo temporizador<br></h3>
+    <h4>Diagrama de secuencias<br></h4>
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97925117-d25ddd00-1d2e-11eb-8cce-204d6bcf14fa.jpg" alt="Hola">
 </dd>
 </dl>
 <li><h4>Cronograma</h4></li>
