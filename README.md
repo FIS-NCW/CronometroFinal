@@ -88,9 +88,9 @@
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97922805-08995d80-1d2b-11eb-839e-9afb416d1813.jpg" alt="Hola">
     <h3>Reiniciar temporizador<br></h3>
     <h4>Diagrama de secuencias<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923098-780f4d00-1d2b-11eb-9aa6-c46a1e4b2ce4.jpg" alt="Hola">
     <h4>Diagrama de actividades<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923078-6fb71200-1d2b-11eb-9ce0-10f2935028ed.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
 </dd>
@@ -106,9 +106,9 @@
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
     <h3>Pausar cronometro<br></h3>
     <h4>Diagrama de secuencias<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923128-8493a580-1d2b-11eb-8d34-da8719a818d7.jpg" alt="Hola">
     <h4>Diagrama de actividades<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923135-86f5ff80-1d2b-11eb-818c-a250cca7f226.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
     <h3>Parar cronometro<br></h3>
