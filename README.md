@@ -47,11 +47,11 @@
 <h4><dt>Diagramas del modelo</dt></h4>
 <dd>
     <h4>Diagrama de casos de uso: <br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923482-0edc0980-1d2c-11eb-8137-d7657f7fa547.jpg" alt="Hola">
 </dd>
  <dd>
     <h4>Diagrama de clases: <br></h4>
-    <img style="width: 500px; height: 600px;" src="https://user-images.githubusercontent.com/49535609/95624311-4660da00-0a3c-11eb-8082-4c08947645e2.jpg" alt="Diagrama de clases">
+    <img style="width: 500px; height: 600px;" src="https://user-images.githubusercontent.com/54086394/97923485-100d3680-1d2c-11eb-8b6e-1bcef8290cb0.jpg" alt="Diagrama de clases">
     </dd>
 <dd>
     <h4>Diagrama de secuencias: <br></h4><br>
@@ -99,11 +99,11 @@
 <dd>
     <h3>Avanzar tiempo<br></h3>
     <h4>Diagrama de secuencias<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923576-36cb6d00-1d2c-11eb-8134-5dae5d9d9ec5.jpg" alt="Hola">
     <h4>Diagrama de actividades<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923571-3501a980-1d2c-11eb-8878-3d0fd511f100.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923564-30d58c00-1d2c-11eb-95cd-84ad9b4479e5.jpg" alt="Hola">
     <h3>Pausar cronometro<br></h3>
     <h4>Diagrama de secuencias<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923128-8493a580-1d2b-11eb-8d34-da8719a818d7.jpg" alt="Hola">
