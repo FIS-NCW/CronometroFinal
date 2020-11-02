@@ -63,7 +63,7 @@
 </dl>
 </li>
 
-<dt>Diagramas por requerimiento del cronometro</dt>
+<h3>Diagramas por requerimiento del cronometro</h3>
 <dd>
     <h4>Diagrama de casos de uso: <br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
@@ -81,7 +81,7 @@
 </dd>
 </dl>
 
-<dt>Diagramas por requerimiento del temporizador</dt>
+<h3>Diagramas por requerimiento del temporizador</h3>
 <dd>
     <h4>Diagrama de casos de uso: <br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
