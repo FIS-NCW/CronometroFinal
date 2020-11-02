@@ -80,11 +80,11 @@
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
     <h3>Parar cronometro<br></h3>
     <h4>Diagrama de secuencias<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924756-27e5ba00-1d2e-11eb-9ae7-fcd5da9f21df.jpg" alt="Hola">
     <h4>Diagrama de actividades<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924747-24eac980-1d2e-11eb-8fe3-477256002db4.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924759-29af7d80-1d2e-11eb-9d91-63ef5c1c9a23.jpg" alt="Hola">
     <h3>Reiniciar cronometro<br></h3>
     <h4>Diagrama de secuencias<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97922583-b6583c80-1d2a-11eb-98c3-2f2504b032e6.jpg" alt="Hola">
