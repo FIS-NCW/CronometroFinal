@@ -1,0 +1,2 @@
+# CronometroFinal
+Requerimientos y diagramas
