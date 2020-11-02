@@ -65,8 +65,21 @@
 
 <h3>Diagramas por requerimiento del cronometro</h3>
 <dd>
-    <h4>Diagrama de casos de uso: <br></h4>
+    <h2>Avanzar cronometro<br></h2>
+    <h1>Diagrama de casos de uso<br></h1>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <h1>Diagrama de actividades<br></h1>
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <h1>Diagrama de flujo de datos<br></h1>
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <h2>Pausar cronometro<br></h2>
+    <h1>Diagrama de casos de uso<br></h1>
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <h1>Diagrama de actividades<br></h1>
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <h1>Diagrama de flujo de datos<br></h1>
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    
 </dd>
  <dd>
     <h4>Diagrama de clases: <br></h4>
