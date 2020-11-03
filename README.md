@@ -77,7 +77,7 @@
     <h4>Diagrama de actividades<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923135-86f5ff80-1d2b-11eb-818c-a250cca7f226.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/97997775-52c82080-1db7-11eb-92fa-aa4c3373d1e0.jpg" alt="Hola">
     <h3>Parar cronometro<br></h3>
     <h4>Diagrama de secuencias<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97924756-27e5ba00-1d2e-11eb-9ae7-fcd5da9f21df.jpg" alt="Hola">
@@ -133,7 +133,7 @@
     <h4>Diagrama de actividades<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97923078-6fb71200-1d2b-11eb-9ce0-10f2935028ed.jpg" alt="Hola">
     <h4>Diagrama de flujo de datos<br></h4>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/97997934-8145fb80-1db7-11eb-9d27-c006e65c84b8.jpg" alt="Hola">
     <h3>Unidad de tiempo temporizador<br></h3>
     <h4>Diagrama de secuencias<br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/54086394/97925117-d25ddd00-1d2e-11eb-8cce-204d6bcf14fa.jpg" alt="Hola">
